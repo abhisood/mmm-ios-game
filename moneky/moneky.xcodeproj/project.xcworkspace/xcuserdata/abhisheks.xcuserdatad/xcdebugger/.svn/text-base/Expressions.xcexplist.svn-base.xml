@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "__46-[GameCenterManager loadPlayers:onCompletion:]_block_invoke_0:GameCenterManager.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[RootViewController processGameCenterAuth:]:RootViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[self isGameCenterUserAuthenticated]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[Card setCardSize:]:Card.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_cardSprite.scaleX">
+            </PersistentString>
+            <PersistentString
+               value = "_top.scaleX">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__block_global_0:GameCenterManager.m">
+      </ContextState>
+      <ContextState
+         contextName = "__63-[GameCenterManager friendsHighScoresForCategory:onCompletion:]_block_invoke_0:GameCenterManager.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[GKLocalPlayer localPlayer]">
+            </PersistentString>
+            <PersistentString
+               value = "[self isAuthenticated]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MonkeyRunNode update:]:MonkeyRunNode.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_chaser.position.x">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[GameCenterManager authenticateLocalUser]:GameCenterManager.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[GKLocalPlayer localPlayer]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MonkeyStore productsRequest:didReceiveResponse:]:MonkeyStore.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "p.productIdentifier">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[PlayerScoreNodeSingle setImage:]:PlayerScoreNode.m">
+      </ContextState>
+      <ContextState
+         contextName = "__45-[BuyUpgradeScene monkeyStore:didGetProduct:]_block_invoke_0:BuyUpgradeScene.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "tex.opacity">
+            </PersistentString>
+            <PersistentString
+               value = "tex.boundingBox">
+            </PersistentString>
+            <PersistentString
+               value = "tex.visible">
+            </PersistentString>
+            <PersistentString
+               value = "priceLabel.boundingBox">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[PlayerScoreNode ccTouchBegan:withEvent:]:PlayerScoreNode.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.boundingBox">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

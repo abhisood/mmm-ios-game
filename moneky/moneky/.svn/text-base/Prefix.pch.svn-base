@@ -1,0 +1,41 @@
+//
+// Prefix header for all source files of the 'Test' target in the 'Test' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iPhone SDK 3.0 and later."
+#endif
+
+#ifdef __OBJC__
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#endif
+
+#ifdef DEBUG
+#define DLog NSLog
+#else
+#define DLog(...)
+#endif
+
+#define kAnimationDuration 0.2
+#define kShuffleAnimationDuration 0.4
+#define kMenuFont @"Marker Felt"
+#define kSpacedFont @"CourierNewPS-BoldMT"
+#define kColorGreen ccc3(15, 150, 0)
+#define kColorRed ccc3(200, 15, 0)
+#define kColorBlue ccc3(15, 15, 240)
+#define kColorLightBlue ccc3(130, 180, 230)
+#define kColorOrange ccc3(255, 127, 0)
+#define kColorYellow ccc3(255, 255, 0)
+
+typedef enum {
+    DifficultyModeVeryEasy = 0,
+    DifficultyModeEasy = 1,
+    DifficultyModeNormal = 2,
+    DifficultyModeHard = 3,
+    DifficultyModeVeryHard = 4,
+    DifficultyModeImpossible = 5,
+} DifficultyMode;
+

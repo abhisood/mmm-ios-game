@@ -1,0 +1,9 @@
+Very Easy 		73 X 95		0.76
+Easy			73 X 76		0.96
+Normal			58 X 63		0.92
+Hard 			48 X 63		0.76
+Very Hard		58 X 63		0.92
+Impossible		48 X 63		0.7619
+
+20 cards, 170 x 200
+
